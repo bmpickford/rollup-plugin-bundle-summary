@@ -1,7 +1,7 @@
-import gzipSize from 'gzip-size';
-import * as brotliSize from 'brotli-size';
-import chalk from 'chalk';
-import prettyBytes from 'pretty-bytes';
+const gzipSize = require('gzip-size');
+const brotliSize = require('brotli-size');
+const chalk = require('chalk');
+const prettyBytes = require('pretty-bytes');
 
 module.exports = function() {
     return {
