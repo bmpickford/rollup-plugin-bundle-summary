@@ -2,7 +2,8 @@
 > Plugin to print the output of your bundle, including gzip and brotli sizes.
 
 ## Output Format
-TODO
+![sample_output](https://user-images.githubusercontent.com/12684286/142648223-d15bc1d4-8dcb-4766-88a4-f1b57462328d.PNG)
+
 
 ## Install
 `npm install --save-dev rollup-plugin-bundle-summary`
