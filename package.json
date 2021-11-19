@@ -5,6 +5,9 @@
   "main": "index.js",
   "author": "Benjamin <b.mpickford@outlook.com>",
   "license": "MIT",
+  "files": [
+    "index.js"
+  ],
   "keywords": [
     "rollup-plugin"
   ],
